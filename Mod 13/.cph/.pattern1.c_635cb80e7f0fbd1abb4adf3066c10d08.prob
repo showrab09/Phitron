@@ -1,1 +1,1 @@
-{"name":"Local: pattern1","url":"e:\\PHITRON\\Mod 13\\pattern1.c","tests":[{"id":1715003244020,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\PHITRON\\Mod 13\\pattern1.c","group":"local","local":true}
+{"name":"Local: pattern1","url":"e:\\PHITRON\\Mod 13\\pattern1.c","tests":[{"id":1715003244020,"input":"5","output":"*\n**\n***\n****\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\PHITRON\\Mod 13\\pattern1.c","group":"local","local":true}
