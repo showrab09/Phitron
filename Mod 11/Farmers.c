@@ -12,13 +12,5 @@ while (t--)
 int few=d-m3;
 printf("%d\n",few);
 }
-
-
-
-
-
-
-
-
     return 0;
 }
