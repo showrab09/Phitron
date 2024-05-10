@@ -4,7 +4,7 @@ int main(){
 
 char name[100];
 //gets(name); //take string with spaces
-fgets(name,7,stdin);
+fgets(name,20,stdin);
 
 printf("%s",name);
     return 0;
